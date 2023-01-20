@@ -1,0 +1,15 @@
+# Machine-specific
+.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+
+# Maven
+target/
+dist/
+
+# Compiled class files
+*.class
+.DS_Store
+*.DS_Store
+*/.DS_Store
