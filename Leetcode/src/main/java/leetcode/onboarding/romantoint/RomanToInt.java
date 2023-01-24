@@ -5,7 +5,7 @@ import org.apache.commons.lang3.StringUtils;
 import java.util.Map;
 import java.util.Set;
 
-public final class RomanToInt {
+final class RomanToInt {
 
     private static final Map<Character, Integer> romanToIntMap = Map.of(
             'I', 1,
